@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FuelCosts/FuelCosts.iml" filepath="$PROJECT_DIR$/FuelCosts/FuelCosts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FuelCostss/FuelCostss.iml" filepath="$PROJECT_DIR$/FuelCostss/FuelCostss.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab_06_Blocking_Input.iml" filepath="$PROJECT_DIR$/Lab_06_Blocking_Input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RectangleInfo/RectangleInfo.iml" filepath="$PROJECT_DIR$/RectangleInfo/RectangleInfo.iml" />
     </modules>
   </component>
 </project>
